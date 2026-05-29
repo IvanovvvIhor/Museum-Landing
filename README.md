@@ -15,6 +15,8 @@ A responsive and interactive landing page for an art museum, featuring current e
 * JavaScript
 * NPM (Task management and deployment)
 
+```
+
 ## Getting Started
 
 Follow these steps to set up the project locally:
