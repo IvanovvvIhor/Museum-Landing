@@ -4,7 +4,7 @@
 A responsive and interactive landing page for an art museum, featuring current exhibitions, a gallery slider, and a newsletter subscription form. The project is built with a focus on cross-device compatibility and structured using the BEM methodology.
 
 ## Demo
-[Live Preview](https://IvanovvvIhor.github.io/Museum/)
+[Live Preview](https://IvanovvvIhor.github.io/Museum-Landing/)
 
 ## Design Reference
 [Figma Mockup](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-idde-id=0%3A1)
@@ -15,37 +15,29 @@ A responsive and interactive landing page for an art museum, featuring current e
 * JavaScript
 * NPM (Task management and deployment)
 
-```
-
 ## Getting Started
 
 Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
-
-   git clone [https://github.com/IvanovvvIhor/Museum.git](https://github.com/IvanovvvIhor/Museum.git)
-
-
-```
+   ```bash
+   git clone https://github.com/IvanovvvIhor/Museum-Landing.git
+   ```
 
 2. **Navigate to the project directory:**
-
-```bash
-   cd Museum
+   ```bash
+   cd Museum-Landing
+   ```
 
 3. **Install dependencies:**
-
-```bash
+   ```bash
    npm install
-
-```
+   ```
 
 4. **Run the project locally:**
-
-```bash
+   ```bash
    npm start
-
-```
+   ```
 
 ## Key Features
 
@@ -54,7 +46,3 @@ Follow these steps to set up the project locally:
 * **Navigation:** Functional hamburger menu for mobile devices and anchored links in the header/footer leading to corresponding sections.
 * **Form Validation:** Configured placeholders and clear validation for user inputs, including auto-clear functionality upon successful submission.
 * **Gallery Slider:** Integrated interactive slider for viewing exhibition pictures on mobile devices.
-
-```
-
-```
