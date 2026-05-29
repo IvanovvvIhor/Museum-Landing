@@ -20,10 +20,9 @@ A responsive and interactive landing page for an art museum, featuring current e
 Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
-```bash
+
    git clone [https://github.com/IvanovvvIhor/Museum.git](https://github.com/IvanovvvIhor/Museum.git)
 
-```
 
 ```
 
