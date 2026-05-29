@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 ```bash
    cd Museum
-
+```
 ```
 
 3. **Install dependencies:**
